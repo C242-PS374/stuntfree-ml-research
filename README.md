@@ -47,6 +47,12 @@ Stunting Dataset Features:
 | InceptionV3       | 0.863    | 0.863 |
 | ResNet50   | 0.195    | 0.235 |
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="image_recognition1.png" alt="image_recognition_result_1" style="width: 45%;">
+    <img src="image_recognition2.png" alt="image_recognition_result_2" style="width: 45%;">
+</div>
+
+
 ## Food Nutrient Prediction Model
 
 | Model          | Accuracy | F1    |          
